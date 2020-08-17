@@ -19,3 +19,7 @@ Manual de Usuario:
 - Cuarto, puedes acceder nuevamente a la Reserva de peliculas para ver en su totalidad las películas que hayas reservado anteriormente o en todo caso, borrar toda la lista de reservas.
 
 Link al repositorio: https://github.com/AngelaSucso/DBP_MiAplicacion
+
+Participantes en el proyecto:
+- Dennis Pumaraime Espinoza
+- Angela Sucso Choque
