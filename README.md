@@ -13,9 +13,9 @@ Manejo de Base de Datos, el proyecto cuenta con el manejo de una base de datos c
 - En la otra tabla, se guardan las reservas de entradas que realicen los usuarios, esta tabla permite consultar las reservaciones de cada uno de los usuarios mediante su DNI como llave foránea y tambien borrar las reservaciones de usuarios específicos.
 
 Manual de Usuario:
-Primero hay que registrarse en la aplicacion, ingresando los datos personales como Nombre Completo, DNI, Numero de Celular y un Password.
-Segundo, regresando a la pantalla de logueo, se ingresa el DNI y el Password para acceder a la Reserva de peliculas.
-Tercero, podras elegir que la pelicula y el horario de preferencia, seleccionando entre las opciones y presionando el boton Nueva Reserva para efectuar tu elección
-Cuarto, puedes acceder nuevamente a la Reserva de peliculas para ver en su totalidad las películas que hayas reservado anteriormente o en todo caso, borrar toda la lista de reservas.
+- Primero hay que registrarse en la aplicacion, ingresando los datos personales como Nombre Completo, DNI, Numero de Celular y un Password.
+- Segundo, regresando a la pantalla de logueo, se ingresa el DNI y el Password para acceder a la Reserva de peliculas.
+- Tercero, podras elegir que la pelicula y el horario de preferencia, seleccionando entre las opciones y presionando el boton Nueva Reserva para efectuar tu elección
+- Cuarto, puedes acceder nuevamente a la Reserva de peliculas para ver en su totalidad las películas que hayas reservado anteriormente o en todo caso, borrar toda la lista de reservas.
 
 Link al repositorio: https://github.com/AngelaSucso/DBP_MiAplicacion
